@@ -24,4 +24,4 @@ I enjoy building logical, well-structured software and am particularly intereste
 
 ## 📫 Contact
 - LinkedIn: *www.linkedin.com/in/aditya-valecha-9688a5336*
-- GitHub: You’re already here 🙂
+- Email: avalecha@ithaca.edu
